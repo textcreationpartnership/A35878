@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between Francisco and Aurelia, two unfortunate orphans of the city of London, Guild-Hall, November 3, 1690</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35878</idno>
+            <idno type="STC">Wing D1311</idno>
+            <idno type="STC">ESTC R5360</idno>
+            <idno type="EEBO-CITATION">12580608</idno>
+            <idno type="OCLC">ocm 12580608</idno>
+            <idno type="VID">63734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 960:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between Francisco and Aurelia, two unfortunate orphans of the city of London, Guild-Hall, November 3, 1690</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Social conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:63734:1"/>
+            <pb n="1" facs="tcp:63734:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN <hi>FRANCISCO</hi> and <hi>A<g ref="char:V">Ʋ</g>RELIA,</hi> Two Unfortunate ORPHANS of the <hi>City of-London.</hi>
+            </head>
+            <opener>
+               <dateline>Guild-Hall, <date>November 3. 1690.</date>
+               </dateline>
+            </opener>
+            <sp>
+               <speaker>Franciſco.</speaker>
+               <p>A Good Morning to you, Madam,—You're an early Riſer, I ſee; though I as little ſuſpected to meet you here, as to find a Quaker behind the Scenes in the Play-Houſe.</p>
+            </sp>
+            <sp>
+               <speaker>Aurelia.</speaker>
+               <p>Why, Sir, think you that Young Women have no Buſi<g ref="char:EOLhyphen"/>neſs in <hi>Guild-Hall?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Yes, Madam, but hardly ſo early in a Morning. Had it been the Fourteenth of <hi>February,</hi> I ſhould have ſuſpected you came hither to Select one of the Aldermen for your <hi>Valentine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>You're pleaſed to be merry, Sir—What Merits have I to deſerve an Alderman?</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>You cloud your own Worth by your ſingular Modeſty; 'tis well known, that ſome who have worn the Purple have taken their Cook Maids into the Bed with them; and, I hope, Madam, their Deſerts ought not to be named with yours.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>You ſeem to be better Acquainted with me, than I am with my ſelf; but, Sir, I hope you have not ſo ill an Opinion of our Sex in
+<pb n="2" facs="tcp:63734:2"/>General, or of me in Particular, to think, that in Affairs of that Nature, Women are uſed to make the firſt Advances.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Yes. In a little fooliſh Gallantry like this, a Lady may go a great way, before ſhe treads upon the heels of Modeſty.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Yes, and that little fooliſh Gallantry, as you are pleaſed to name it, ſhall be called fondneſs on our Part; for it is the admi<g ref="char:EOLhyphen"/>rable Temper of moſt of your Sex, if you obſerve any thing in a Woman's Converſation, which you can Interpret to your Advan<g ref="char:EOLhyphen"/>tage, the nearer you find her Approaches, the farther you fly from her, and tell it in Company over a Bottle—<hi>The truth en't is,</hi> Jack, <hi>I could Love Miſtreſs ſuch a one, but ſhe's ſo coming, that</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>No more, no more, good Madam.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Yes, one word more, and then as ſilent as you pleaſe. Modeſty on our part ſerves to whet and highten your Deſires; for 'tis a Vertue of ſuch Reputation, that where you cannot find the Original, you Doat upon the Copy. Witneſs the Truth of what I ſay in the Conduct of the Lewdeſt Women of the Town, whoſe counterfeit Vertue allures you to an Intrigue; whereas an open De<g ref="char:EOLhyphen"/>claration of their Infamous Way of Living, would frighten you from an Amour.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>But in this Diſcourſe, of Modeſty and Intrigue, we have loſt our Alderman.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>What have I done, that I ſhould be haunted with Alder<g ref="char:EOLhyphen"/>men? You are not ſo ill a Philoſopher, as not to know, that Content or Happineſs are not always the Attendants on a Plentiful Fortune; which I am neither ſo vain to wiſh, nor have Merits to deſerve, however ſome of my Sex may be pleaſed with the Title of an Al<g ref="char:EOLhyphen"/>derman's Lady.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Now, by this Averſion of your's to an Alderman, I hum<g ref="char:EOLhyphen"/>bly conceive, Madam, you are one of the Orphans of the City of <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>You are much in the right, Sir; and, if I miſtake not, by meeting you here ſo often, I ſuppoſe you are one of the ſame Un<g ref="char:EOLhyphen"/>happy Number.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>'Tis certainly ſo, Madam; for, like the Widow <hi>Blackacre</hi> in the <hi>Plain Dealer,</hi> I am forced to Sollicit my own Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I come hither upon the ſame melancholy Account, but have as much Luck in the Attempt, as a Poor Fellow that Sues for an Eſtate in <hi>Formâ Pauperis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Well! there is certainly a Pleaſure in Rehearſing ones
+<pb n="3" facs="tcp:63734:2"/>Misfortunes, eſpecially if the Perſon to whom they are told, can oblige one with a like Relation. Pleaſe you therefore, Madam, to Repoſe your ſelf upon this Seat, and allow one that is not a per<g ref="char:EOLhyphen"/>fect Stranger to you, a quarter of an Hours Converſation, ſince we are fallen upon a Subject that equally concerns us both.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>The Pleaſure of that Converſation will be wholly on my part, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Good Madam, let us not talk, as if we were in a Dancing School, but lay all Complements aſide as ſuperfluous, as fine Clothes at a Funeral.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>The Subject, I confeſs, is almoſt as Melancholy; for were our Bodies in as deſperate a Condition as our Fortunes, I fear <hi>Jeſuits Powder</hi> would do us but little good.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>The truth on't is, we have lived upon hope a long time—A fine, thin, cooling Diet, and as neceſſary in our Circumſtances, as Water-Gruel to a Man troubled with an over heated Liver.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I think we may not improperly call this Place, <hi>The Land of Promiſe,</hi> where we are treated with all the Civility poſſible. <hi>In<g ref="char:EOLhyphen"/>deed, Madam, I think of your Petition. Truly, Sir, you will not fail next Court Day. I profeſs, Madam, I don't neglect your Buſineſs.</hi> And all this is nothing but Ceremony and Complement, acted with ſo much Gravity, that on a Court-Day I have fanſied my ſelf to have ſeen Mr. <hi>Bays</hi> his Grand Dance in the Rehearſal.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Indeed, our daily Attendance is ſomewhat like the Story of the Fellow, that made Love to an Inviſible Miſtreſs.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>But 'pray', Sir, give me leave to enquire of you the Rea<g ref="char:EOLhyphen"/>ſons, or Occaſions, of the Practice of putting the Orphans Money into the Chamber of <hi>London;</hi> by what Authority demanded, and whether our Deceaſed Parents were not influenced by Cuſtom, and had a wrong Notion of the Matter; for could they have foreſeen what has ſince happened, they would as ſoon have ordered their Executors to have laid out their Money in Ruffs and Farthingals, as to have put it into that bottomleſs Pit, the Chamber.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>A Place ſomewhat reſembling <hi>Michael Angelo</hi>'s Picture of Hell, from whence the <hi>Pope</hi> himſelf could not redeem a <hi>Cardinal,</hi> there painted. But not to run too far from your Queſtion; the Reaſons of the Practice were at firſt intentionally Good and Pious; for—</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>So were Religious Houſes in the Times of the Primitive Perſecutions, but Poſterity improved the Matter into Monaſteries
+<pb n="4" facs="tcp:63734:3"/>and Nunneries, though ſince Nurſeries of Luxury and Idleneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Your Digreſſion is pithy enough, Madam, but 'pray' give me leave to proceed: As to the Authority by which it is demanded, 'tis well known, that the City of <hi>London</hi> being, by Vertue of <hi>Magna Charta,</hi> a Body Corporate, they have a Power or Commiſſion to enact petty Laws and Cuſtoms among themſelves, as they ſhall ſee moſt fit, for the better Government of the City—</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Yes, Sir, ſuch as ordering the Aſſize of Bread, or Penny Loves, for the uſe of School Boys, and Journeymen Taylors.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Still you will be Facetious. But to proceed. Amongſt other Cuſtoms this was Enacted by Common-Council, no doubt, that every Freeman dying, and leaving a Widow and Children be<g ref="char:EOLhyphen"/>hind him, for the better Security of what he left them (leaſt ha<g ref="char:EOLhyphen"/>ving their Fortunes in their own Power, they might embezzle it, or elſe be betrayed to very unequal, if not ſcandalous Matches.) The Money, I ſay, was paid into the <hi>Chamberlain's Office,</hi> the Summ Regiſtred, and his Note given for Security; the Lord Mayor, for the Time being, and the Court of Aldermen becoming Guardians or Truſtees to the ſaid Widow and Orphans, either of which were not to Marry without their Conſent firſt had and obtained.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>With Submiſſion to their Authority, I ſhall never trouble 'em with the Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Heaven be praiſed, at preſent the Condition of that Ob<g ref="char:EOLhyphen"/>ligation is void; I <hi>Thomas</hi> may take thee <hi>Abigail</hi> without that Li<g ref="char:EOLhyphen"/>cence; nay, invite the Aldermen to Dinner, and they never be offended at it.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>But granting the Intention was Good and Pious, did it ever Anſwer the end propos'd?</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Yes, unqueſtionably, for ſeveral ſcores of Years; for I love to do Juſtice to the Memory of the Dead.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I wiſh my Thoughts would allow me that Liberty to the Living. But how comes it to paſs, Sir, that the Bank is not in that Reputation as formerly, the City being much more Rich and Populous.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Now, Madam, you ask a very knotty Queſtion; but to the beſt of my Memory, the <hi>Exchequer,</hi> being ſhut up ſometime before the Bank you ſpeak of, languiſhed in eſteem about the Year 1681. yet, with Submiſſion, I believe we may go higher, even as far as the Year 1641. <hi>London</hi> being eſteemed by ſome at <hi>Weſtminſter,</hi> what was ſaid of <hi>England</hi> formerly at <hi>Rome,</hi> that it was <hi>Puteus
+<pb n="5" facs="tcp:63734:3"/>inexhauſtus, A Well never to be drawn dry:</hi> Something went to the maintaining that Unnatural War, beſides Bodkins and Thimbles. The proſecuting of the then miſcalled <hi>Godly Cauſe,</hi> calling for vaſt Summs from the Chamber, which all the ſince received Money could not repay again; they being oftentimes forced to pay one Man's Intereſt with another's Principal. And though the Fatal Conſequences were not known till of late, yet ſome Ob<g ref="char:EOLhyphen"/>ſervators about <hi>Guild-Hall</hi> diſcovered, that a Late Chamberlain, famous for his Skill in Military Diſcipline, finding a Cloud ga<g ref="char:EOLhyphen"/>thering at Court, and that he was like to fall under the Diſ<g ref="char:EOLhyphen"/>pleaſure of a Great Man at <hi>Whitehall,</hi> gave private Notice to ſome of his own Party to draw out their Money; and thoſe who wanted that kind Intelligence are the chief, if not the only Sufferers now; for, you know, 'tis like the Practice of Bankers, who being blemiſh'd in their Repute, their Creditors coming ſo thick upon them to call in their Money, they are forced to ſtop their Payments, in order to a Compoſition.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>But, Sir, I have been told, that thoſe who come a little nearer to our Memories tell us, they have obſerved a Tall Building upon <hi>Fiſh-ſtreet Hill,</hi> a Ditch not far from <hi>Ludgate,</hi> and ſeveral Conduits, to be Built with Mortar temper'd with a Sort of Brackiſh Water, known to the <hi>Virtuoſi,</hi> by the Name of Widows and Orphans Tears.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>No, Madam, that was not ſo, your Judgment has been miſinformed, thoſe Publick Structures being wholly Built at the City Charge, by Money rais'd upon a Tax upon Coals, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I could have wiſh'd the Wiſdom of the City would have converted thoſe Fonds into other Uſes. For the Payment of the Orphans would have Eterniz'd their Memories more, than if they had erected Monuments and Mum-glaſſes in every Street of the City.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>For my part, though I would have the Second Day of <hi>September</hi> never to be forgotten, yet I have wondred what that Monument was intended for, except by Day for a Landmark for Travellers, that loſt their Way upon <hi>Shooters-Hill;</hi> and 'tis pity that ſome Invention is not found out to make a Lanthorn of that Flaming Ball at top, for Poor People cannot go to the Price of <hi>Hemmings</hi> his New Lights; and Coals, they ſay, will be very dear this Winter.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:63734:4"/>
+               <speaker>Aurel.</speaker>
+               <p>I heard, Sir, that a Gentleman t'other Day asking his Friend, What that ſtreight bodied thing might coſt build<g ref="char:EOLhyphen"/>ing, was told, about 18000 Pounds. Did it ſo, ſays the other; I know a Gentleman of my Acquaintance has lent the City juſt ſuch a Summ, I think they had beſt make a Mortgage of it to him for Security.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>And very good Security too. Well, let the Monument ſtand till a Country Fellow wants Two Pence to ſee it, I care not; and what a pretty Accompt that Ditch you ſpeak of comes to, after ſo many Thouſand Pounds Expended in the Building it, when the Vaults and Cellerage belonging to it, are now of<g ref="char:EOLhyphen"/>fered to be Rented for One hundred Pound <hi>per annum.</hi> A very pretty Intereſt for ſo large a Principal. Nay, I am told, that a certain Conduit near <hi>Foſter-lane,</hi> has already gotten a Rhen<g ref="char:EOLhyphen"/>matiſm, for want of a Night Cap. There have been ſome fine Treats at <hi>Guild-Hall,</hi> and ſuppoſing there wanted a little Summ to buy Shrimps and Oyſters for a Diſh of Fiſh, I hope 'twas no ſuch great Crime for the Caterer to put his Hand into the Or<g ref="char:EOLhyphen"/>phans Bag to purchaſe 'em.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>But methinks it would have been Civil, to have invited us to eat part of the Fiſh, when our Money paid for the Sauce.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>No, no, there is meaner Proviſions ſuitable to our Con<g ref="char:EOLhyphen"/>dition. Lord! Madam, I ſmile to think how we Laugh till our Hearts ache, and divert our ſelves with our very Misfortunes; as Proſperity never Exalted our Thoughts, neither does Adverſity Depreſs them. 'Tis a Practice of Philoſophy which few attain to, and the little proficiency I have made in it, is wholly owing to your generous and ſprightly Converſation.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Sir, I'd return your Complement, but at preſent I am out of Stock—For my part, I know no Divine nor Humane Law forbids innocent Railery; if the worſt come to the worſt, 'tis but reaſonable Loſers ſhould have leave to ſpeak, though it is dear jeſting at the Rate of Eight Thouſand Pound. But to be ſerious, is it not Deplorable, that a Gentleman well Born and Educated, ſhould for want of that Money of his which lies in the Chamber of <hi>London,</hi> be expoſed to all the Indignities of Fortune, accept of ſome mean Office, to keep him from ſtarving, Liſt himſelf a Common Sentinel, to ſtave of his Importunate Creditors; or, perhaps, take the Highway, and make his Life as Deſperate as his Fortune: Whereas, if he
+<pb n="7" facs="tcp:63734:4"/>enjoyed what was juſtly his own, might make no Contemptible Figure in the World, where he now lies windbound for want of Money.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>To ſhew you the Reverſe of the Medal. Is it not pity that a Young Gentlewoman, whom Nature and Education have made a finiſh'd piece for want of thoſe Bags which lie ſleeping in the Chamber, betake her ſelf to ſome mean Employ, or at beſt to wait upon ſome Finical Lady, who, excepting her For<g ref="char:EOLhyphen"/>tune, is not worthy to be named with her for Accompliſhments; or, at laſt, it may be ſhe's Married to ſome inferiour Fellow; or, if I durſt be familiar with Female Virtue, perhaps, by reaſon of her Poverty, expoſed to the Sollicitations of unlawful Love, from which Attempts the Poſſeſſion of her Fortune would ſecure her.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I have wanted neither Lawful nor Unlawful Offers; for the firſt, I am reſolved never to diſgrace my Father's Aſhes by a ſorry Marriage, and from the latter Heaven will, I hope, defend me.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>As Deſpicable as my Fortune may be at preſent, I am reſolved not to be Deſpicable in my own Thoughts: And I will for once, Madam, make you ſo far my Confeſſor, as to aſſure you, I loved a Miſtreſs, Fair, Rich, and Virtuous; nor was I (par<g ref="char:EOLhyphen"/>don my Vanity) treated with Contempt, and we had certainly Married, had not Fortune on my ſide forbid the Banes.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>But is there no Hopes of recovering our Fortunes?</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Much ſuch Hopes as a Dying Patient has, when he ſees his Phyſician ſhake his Head; but however we do not abſolutely Deſpair.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>I heard the City were about Selling ſome of their Lands, in order to raiſe a Fond for the Payment of their Debts, did that come to any thing?</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Sell their Lands, they'd as ſoon ſell their <hi>Charter.</hi> No, Madam, all the hopes we have is from the preſent Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>'Pray Heaven they prove not ſo tedious in their Votes, as the laſt Seſſions.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>The greater Concerns of the Nation, as the Wars with <hi>France</hi> and <hi>Ireland,</hi> took up ſo much of their Time, that ſmaller Matters was put by, all private Intereſt being to veil to the publick Good; but my prophetick Hopes tell me, that the preſent Parliament will have the Matter under Conſidera<g ref="char:EOLhyphen"/>tion, and I doubt not, but thoſe Worthy Members of the City
+<pb n="8" facs="tcp:63734:5" rendition="simple:additions"/>will be powerful Sollicitors in our almoſt ſinking Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Then I think my ſtay here needleſs, for the Judges Pi<g ref="char:EOLhyphen"/>ctures are able to afford me as much Conſolation as I am to ex<g ref="char:EOLhyphen"/>pect from any here. I wait with ſome Impatience the Motions of the Parliament, but muſt, Sir, after my humble Thanks to you for your extraordinary Company, be ſo rude as to leave you.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>'Pray', Madam, let me wait on you Home.</p>
+            </sp>
+            <sp>
+               <speaker>Aurel.</speaker>
+               <p>Sir, I am not often attended; but I ſhould be Uncivil to deny my Hand to a Perſon of ſuch engaging Civility.</p>
+            </sp>
+            <sp>
+               <speaker>Franc.</speaker>
+               <p>Madam, your Servant. You do me too much Honour.</p>
+            </sp>
+         </div>
+         <div type="license">
+            <p>LICENS'D,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 4<hi rend="sup">th</hi> 1690.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed, for <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> MDCXC.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
